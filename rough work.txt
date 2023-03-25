@@ -1,0 +1,20 @@
+Personality check:
+===================
+1) mentally stable
+a) Have you experienced any kind of change, loss, or trauma recently? 
+b) Have you experienced a loss of interest in normal activities such as hobbies or sports?
+
+
+
+//yes no ==> you look mentally unstable! everything will be fine soon! All your worries will get vanish one day
+//no no ==> you are mentally unstable! Whatever happens don't stress
+//no yes ==> you look somrthing disturbed, Push yourself, because no one else is going to do it for you!
+//yes yes ==> you are mentally stable, The harder you work the better you get!
+
+
+
+Zodiac sign analysis:
+provide month number and get your funny partner along with zodiac sign 
+
+
+birthday and age
